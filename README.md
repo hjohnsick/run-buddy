@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://hjohnsick.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Heather
